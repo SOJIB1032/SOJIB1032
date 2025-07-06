@@ -13,7 +13,7 @@ Skills: C / java / python / mySQL / database management system
 - 💬 Ask me about Data science and machine learning  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SOJIB1032/SOJIB1032/blob/main/README.md)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-sojib-hasan-813734266//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/md.sojib.hasan.32)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='4'>](https://github.com/https://github.com/SOJIB1032/SOJIB1032/blob/main/README.md)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='4'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-sojib-hasan-813734266//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='4'>](https://www.facebook.com/https://www.facebook.com/md.sojib.hasan.32)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/SOJIB1032/SOJIB1032/blob/main/README.md&show_icons=true)  
 
